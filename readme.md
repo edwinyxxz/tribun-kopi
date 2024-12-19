@@ -1,22 +1,38 @@
 
-# Beauty Solution
+# Tribun Kopi
 
-This Yii2-based web application is designed to streamline operations for cosmetic shops. It helps improve inventory accuracy, manage transactions, and organize distributor information efficiently, making it a practical solution for cosmetic retail businesses.
+This Yii2-based web application is designed to streamline operations for a cafe. It helps to organize data in the cafe like menu, cashier, orders and customer.
+
 
 ## Features
 
-- Track and Manage item stock efficiently
+- adding an menu and order in 1 application
 - Simplify cashier transactions with an integrated system
-- Monitors and organize distributor information
+- Monitors and organize orders information
 
 
 ## Tech Stack
 
-**Client:** PHP, Boostrap
+**Clients:** 
 
-**Server:** Yii2, MySQL
+![tech](https://img.shields.io/badge/PHP-Bootstrap-blue)
 
-**Environtment:** XAMPP (Apache, MySQL, PHP)
+**Environment:**
 
-**Dependency Management**: Composer
+![tech](https://img.shields.io/badge/Mysql-orange)
+![tech](https://img.shields.io/badge/Xampp-green)
+![tech](https://img.shields.io/badge/Yii2-composer-blue)
 
+
+## Documentation
+
+for more detailed documentation, please refer to the link below. The document is written in indonesian.
+
+[View Documentation](./dokumen/)
+
+
+## Team
+
+- [@edwinyxxz](https://github.com/edwinyxxz)
+- [@vickriz45](https://github.com/vickriz45)
+- [@deariftyaa](https://github.com/deariftyaa)
